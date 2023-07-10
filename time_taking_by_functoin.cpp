@@ -47,3 +47,12 @@ int  main()
     
     return 0;
 }
+
+
+/*
+output :
+Odd Sum : 902500000950000000
+even sum : 902500000950000000
+Total time taken : 8
+Program ended with exit code: 0
+*/
